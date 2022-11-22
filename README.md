@@ -1,1 +1,5 @@
-# Website for Guest Speakers
+# San Joaquin Valley Town Hall Website
+
+## Class Project - Introduction to Website Development 
+
+This course discusses the concepts and skills required to plan, design and build websites. It will be taught in a lab to ensure hands-on experience with each of these tasks. The course begins with an overview of web technologies. Students learn to plan websites, which includes determining the business and end-user requirements for the site. Design includes learning to develop "mockups" of how the site will look and how people will use it. The major tools for building websites will be industry standard HTML and XHTML to describe web page content, and Cascading Style Sheets (CSS) for flexibly formatting the content. Using entire site, as well as "future-proofs" a website, allowing it to be viewed on every major web browser (such as Firefox or Chrome) and easily adapt to changes in future browser technology. The course features substantial hands-on projects comprising websites of several interlinked pages and images, enabling students to thoroughly learn the course's important concepts and skills.
